@@ -1,0 +1,5 @@
+Meta,nbGameWithLead,nbGames,percentageLeadingTeam,percentageTotalGame,redTeamWinrate,winrateLeadingTeam
+All,1854,2293,80.85,100.00,59.01,93.53
+Jungle Only,272,321,84.74,14.00,56.07,92.65
+Hypercarry only,928,1156,80.28,50.41,59.43,95.15
+Hypercarry VS Jungle,654,816,80.15,35.59,59.56,91.59
