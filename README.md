@@ -2,7 +2,10 @@
 
 This repo offers some resources to perform game data analysis for League of Legends.
 
-Stats about games are already computed and directly available in some notebooks (TTstats, TTstats_NA) at the end of each.
+Stats about games are already computed and directly available in some notebooks (TTstats_EUW, TTstats_NA) at the end of each.
+
+Final data can be found in the csv files. The limit date for before/after is 01/08/2018 (Patch 8.15 release).
+A comparison between the four stacks can be found in the notebook compareStats. The file comparison.png is the final comparison dataframed styled, as Github does not render pandas Style.
 
 If you want to perform the computation youself, you can reuse these notebooks, assuming you have a python environment with [Jupyter Notebook](http://jupyter.org/), MongoDB and [pymongo](https://api.mongodb.com/python/current/), [pandas](https://pandas.pydata.org/) and [Pantheon](https://github.com/Canisback/pantheon)
 
